@@ -1,4 +1,5 @@
 # Gainaru-Grigorii-Resume
-## "Informatie Generalizatoare"
-## ** Numele ** Grigorii
-## ** Prenumele ** Gainaru
+## **Informatii Personale**
+## **Nume** Grigorii 
+## **Prenume**Gainaru
+## *Varsata* 18
