@@ -3,9 +3,9 @@
 ## CV
 
 **Nume:** Gainaru  
-**Prenume:** Grigorii
-**Adresa:** St.Mircesti 22\4
-**Email:** gainarugrigore@gmail.com 
+**Prenume:** Grigorii  
+**Adresa:** St.Mircesti 22\4  
+**Email:** gainarugrigore@gmail.com   
   
 ## Hobby
 
